@@ -1,4 +1,8 @@
 # tg-dashboard
+&#9888; This Python script is now part of the <b>redmaw-tg-toolkit</b> repository, and will no longer be developed as a stand-alone script in this repository.
+
+Click [here](https://github.com/RedMawVFX/redmaw-tg-toolkit) for the redmaw-tg-toolkit repository.<br> 
+<hr>
 This script makes organizing and running your Python scripts for Terragen just one button click away.  The script will automatically generate a User Interface with button widgets and tabs according to the contents of its TOML formatted config file.
 
 ![tg_dashboard.py GUI](/images/tg_dashboard_gui.jpg)
